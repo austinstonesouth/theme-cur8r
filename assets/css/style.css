@@ -268,6 +268,11 @@ div.right ul.right-links {
 div.right ul.right-links li a {
   color: #464748;
 }
+
+.post-image {
+    width: 100%;
+}
+
 div.right ul.right-links li a:hover {
   color: #44a084;
 }
