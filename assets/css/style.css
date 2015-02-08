@@ -100,7 +100,7 @@ div.header {
   overflow: hidden;
   width: 100%;
   display: block;
-  background-color: #25b58f;
+  background-color: #128d57;
   color: #ffffff;
 }
 div.header h1.logo {
@@ -112,7 +112,7 @@ div.header h1.logo {
   display: inline-block;
 }
 div.header h1.logo a {
-  color: #464748;
+  color: #ffffff;
 }
 div.header h1.logo a:hover {
   color: #44a084;
