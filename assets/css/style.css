@@ -333,7 +333,7 @@ div.post-wrapper {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
-  padding: 115px 35px 35px 35px;
+  padding: 75px 10px 10px 10px;
 }
 div.post-wrapper:after {
   visibility: hidden;
@@ -432,7 +432,7 @@ div.post-wrapper div.post-fragment:hover div.post-body {
 }
 div.post {
   background-color: #ffffff;
-  padding: 70px;
+  padding: 20px;
 }
 div.post h2 {
   font-size: 3rem;
