@@ -120,7 +120,7 @@ div.header h1.logo a:hover {
 }
 div.header ul.nav {
   float: left;
-  padding: 28px 0 0 45px;
+  padding: 25px 0 0 100px;
   display: inline-block;
 }
 div.header ul.nav li {
