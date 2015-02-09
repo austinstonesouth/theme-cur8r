@@ -131,9 +131,12 @@ div.header ul.nav li {
 div.header ul.nav li a {
   color: #ffffff;
   text-transform: uppercase;
+  font-family: lato;
+  font-weight: 400;
+  
 }
 div.header ul.nav li a:hover {
-  color: #444444;
+  color: #f5f5f5;
 }
 div.header ul.nav li a.active {
   font-weight: 700;
