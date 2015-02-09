@@ -317,8 +317,11 @@ form input {
   font-size: 0.75rem;
 }
 h4.tag-header {
-  padding: 0 0 35px 0;
+  padding: 35px 0 35px 0;
   margin: 0;
+  text-align: center;
+  font-size: 30px;
+  text-transform: uupercase;
 }
 img.avatar {
   width: 55px;
