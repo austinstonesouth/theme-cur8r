@@ -708,7 +708,7 @@ div.pagination {
   box-sizing: border-box;
   display: block;
   clear: both;
-  background-color: #ffffff;
+  background-color: #eeeeee;
   padding: 30px 35px 30px 35px;
 }
 div.pagination a {
