@@ -24,7 +24,7 @@ body {
   font-family: 'Montserrat', sans-serif;
   height: 100%;
   width: 100%;
-  background-color: #f5f5f5;
+  background-color: #f9f9f9;
   font-size: 100%;
   /* 16px */
   line-height: 1.5;
@@ -296,14 +296,14 @@ ul.tags li a {
   border-radius: 2px;
   text-transform: uppercase;
   font-family: 'Roboto', sans-serif;
-  font-size: 0.75rem;
+  font-size: 0.8rem;
   font-weight: 500;
   background-color: #eee;
   color: #646464;
-  padding: 1px 7px 3px 7px;
+  padding: 8px 8px 8px 8px;
 }
 ul.tags li a:hover {
-  background-color: #44a084;
+  background-color: #eeeeee;
   transition: box-shadow 0.1s cubic-bezier(0.4, 0, 0.2, 1);
   transition-delay: 0.1s;
   box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.26);
@@ -398,7 +398,8 @@ div.post-wrapper div.post-fragment div.post-details h2 {
   line-height: 1.75rem;
   padding: 0;
   margin: 0;
-  font-weight: 700;
+  font-family: Roboto;
+  font-weight: 500;
 }
 div.post-wrapper div.post-fragment div.post-details h2 a {
   color: #464748;
