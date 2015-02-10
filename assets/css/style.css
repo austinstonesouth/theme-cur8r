@@ -267,15 +267,25 @@ div.right h4 {
 
 div.right p {
   color: #000000;
-  font-size: 0.9rem;
+  font-size: 1rem;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+  padding: 0;
+  margin: 0;
+}
+
+div.right p.bio {
+  padding-top: 15px;
+}
+
+div.right p.topics {
+  color: #000000;
+  font-size: 1rem;
   font-family: 'Roboto', sans-serif;
   font-weight: 300;
   line-height: 3em;
   padding: 0;
-  margin: 0;
-}
-div.right p.bio {
-  padding-top: 15px;
+  margin: 0;    
 }
 div.right ul.right-links {
   padding-top: 15px;
