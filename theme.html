@@ -62,7 +62,7 @@
     {{ login_form }}
 
   {% else %}
-    <h1>cur8r</h1>
+    <h1>South Campus</h1>
 
     <div class="wrapper">
 
@@ -107,6 +107,10 @@
             <h2><a href="{{ post.permalink }}">{{ post.title|truncate(40, False, '...') }}</a></h2>
           </div>
           {% endif %}
+          
+          <div class="hr">
+            <hr>
+          </div>
 
           <ul class="tags">
           {% if post.tags %}
