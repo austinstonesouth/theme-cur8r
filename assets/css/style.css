@@ -242,6 +242,7 @@ div.right {
   box-sizing: border-box;
   padding: 125px 35px 35px 35px;
 }
+
 div.right h2 {
   border-bottom: 1px solid #464748;
   padding-bottom: 15px;
@@ -257,9 +258,17 @@ div.right h3 {
   font-size: 1rem;
   line-height: 1.5rem;
 }
+
+div.right h4 {
+  padding: 10px 0 10px 0;
+  font-size: 1rem;
+  line-height: 1.5rem;
+}
+
 div.right p {
   color: #464748;
   font-size: 0.9rem;
+  font-weight: 400;
   padding: 0;
   margin: 0;
 }
