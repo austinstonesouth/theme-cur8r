@@ -260,6 +260,24 @@
           <li><a href="{{ site.atom_url }}"><span class="typcn typcn-rss"></span>&nbsp;&nbsp;RSS</a></li>
         </ul>
       </div>
+      
+/*ADDING CATEGORY NAV ELEMENT FOR RIGHT SIDEBAR CATEGORY TAGS*/
+  <nav class="topics">
+  </nav>
+
+  <nav class="topics">
+  <h4>Categories</h4>
+  </nav>
+  
+  <nav class="topics">
+  <h4>Topics</h4>
+  <ul>
+    <li><a href="/tag/processes" class="{{ set_active('/tag/processes') }}">Processes</a></li>
+    <li><a href="/tag/classes" class="{{ set_active('/tag/classes') }}">Classes</a></li>
+    <li><a href="/tag/events" class="{{ set_active('/tag/events') }}">Events</a></li>
+    <li><a href="/tag/sundays" class="{{ set_active('/tag/sundays') }}">Sunday Service</a></li>
+  </ul>
+</nav>
 
     </div><!-- end wrapper -->
 
