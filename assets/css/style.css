@@ -297,7 +297,7 @@ ul.tags li a {
   text-transform: uppercase;
   font-family: 'Roboto', sans-serif;
   font-size: 0.8rem;
-  font-weight: 500;
+  font-weight: 400;
   background-color: #eee;
   color: #646464;
   padding: 8px 8px 8px 8px;
@@ -906,4 +906,10 @@ div.pagination:after {
   font-size: 10pt;
   line-height: 10pt;
   padding: 7px;
+}
+
+hr {
+   height: 0;
+   width: 100%;
+   max-height: 0;
 }
