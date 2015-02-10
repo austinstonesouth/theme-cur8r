@@ -283,6 +283,8 @@ div.right p {
 
 div.right p.bio {
   padding-top: 15px;
+  border-bottom: 1px solid #464748;
+  padding-bottom: 25px;
 }
 
 .topics {
