@@ -246,12 +246,14 @@ div.right {
 div.right h2 {
   border-bottom: 1px solid #464748;
   padding-bottom: 25px;
+  font-size: 20px;
+  font-family: Roboto;
+  font-weight: 400;
+  text-transform: uppercase;
 }
 
 div.right h1 {
-  border-bottom: 1px solid #464748;
   padding-bottom: 25px;
-  text-align: center;
 }
 
 div.right h2 .typcn {
