@@ -92,23 +92,25 @@ div.wrapper {
 }
 span.typcn {
   position: relative;
-  top: -2px;
+  top: -12px;
 }
 div.header {
   position: fixed;
   top: 0;
   left: 0;
-  height: 80px;
+  height: 70px;
   overflow: hidden;
   width: 100%;
   display: block;
   background-color: #ffffff;
   color: #333333;
+  border-bottom: 1px solid #eeeeee;
 }
 div.header h1.logo {
   float: left;
   font-size: 1rem;
   font-weight: 700;
+  font-family: Laro;
   text-transform: uppercase;
   padding: 30px 0 0 35px;
   display: inline-block;
@@ -121,7 +123,7 @@ div.header h1.logo a:hover {
 }
 div.header ul.nav {
   float: left;
-  padding: 25px 0 0 100px;
+  padding: 25px 0 0 10px;
   display: inline-block;
 }
 div.header ul.nav li {
