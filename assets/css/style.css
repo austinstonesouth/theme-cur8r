@@ -190,7 +190,7 @@ div.mobile-nav a.toggle {
   top: 30px;
   right: 30px;
   font-size: 1.5rem;
-  color: #ffffff;
+  color: #333333;
 }
 div.mobile-nav a.toggle:hover {
   color: #44a084;
@@ -384,6 +384,7 @@ div.post-wrapper {
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
   padding: 75px 10px 10px 10px;
+  background-color: #ffffff;
 }
 div.post-wrapper:after {
   visibility: hidden;
@@ -394,7 +395,7 @@ div.post-wrapper:after {
   height: 0;
 }
 div.post-wrapper h2 {
-  padding-bottom: 17.5px;
+10px 150px 10px 150px
 }
 div.post-wrapper div.post-fragment {
   position: relative;
@@ -410,9 +411,9 @@ div.post-wrapper div.post-fragment {
   height: 250px;
   overflow: hidden;
   margin-right: 2.5%;
-  margin-bottom: 3%;
+  margin-bottom: 1%;
   margin-top: 3%;
-  box-shadow: 0 12px 15px 0 rgba(0,0,0,0.24)
+  box-shadow: 0 3px 15px 0 rgba(0,0,0,0.24)
 }
 div.post-wrapper div.post-fragment div.post-image {
   padding: 0;
