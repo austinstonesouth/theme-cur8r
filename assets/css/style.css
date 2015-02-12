@@ -395,7 +395,7 @@ div.post-wrapper:after {
   height: 0;
 }
 div.post-wrapper h2 {
-10px 150px 10px 150px
+  margin: 1% 20% -2% 20%;
 }
 div.post-wrapper div.post-fragment {
   position: relative;
@@ -489,7 +489,7 @@ div.post {
   padding: 20px;
 }
 div.post h2 {
-  font-size: 3rem;
+  font-size: 36px;
   line-height: 4rem;
 }
 div.post h2 a {
