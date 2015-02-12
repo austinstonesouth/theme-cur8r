@@ -238,7 +238,7 @@ div.right {
   right: 0;
   width: 23%;
   height: 100%;
-  background-color: #ffffff;
+  background-color: #f9f9f9;
   -ms-box-sizing: border-box;
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
@@ -383,7 +383,7 @@ div.post-wrapper {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
-  padding: 75px 10px 10px 10px;
+  padding: 75px 10px 10px 0px;
   background-color: #ffffff;
 }
 div.post-wrapper:after {
@@ -395,7 +395,7 @@ div.post-wrapper:after {
   height: 0;
 }
 div.post-wrapper h2 {
-  margin: 1% 20% -2% 20%;
+  margin: 1% 20% 1% 20%;
 }
 div.post-wrapper div.post-fragment {
   position: relative;
